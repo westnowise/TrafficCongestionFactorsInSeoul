@@ -1,6 +1,5 @@
-### [데이터분석] 서울시 교통 혼잡 요인 분석
-
-### traffic congestion Factors In Seoul
+### 🚘 Traffic Congestion Factors In Seoul 🚘
+________________________________________________
 한서대학교 항공소프트웨어공학과 인공지능 데이터분석
 개발기간 : 2023. 11 ~ 2023. 11
 
